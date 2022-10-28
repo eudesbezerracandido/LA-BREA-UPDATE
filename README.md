@@ -14,4 +14,4 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um enorme buraco misteriosamente se abre em Los Angeles, separando parte de uma família em um mundo primitivo inexplicável, ao lado de um grupo desesperado de estranhos.</info>
-</item>
+</item> 

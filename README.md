@@ -14,6 +14,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8764b1193248bb4e5922efd04a5151172032490$nome=EP.3/4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddc21bebfc2faa2b625cac68fb68d3d4de9279a5$nome=EP.5/6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dba90eb64f642eeb2b3aa080b421c529ea491577$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7008ae88bf71b534c0f3c360753b98fa6e52762a$nome=EP.8/10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um enorme buraco misteriosamente se abre em Los Angeles, separando parte de uma família em um mundo primitivo inexplicável, ao lado de um grupo desesperado de estranhos.</info>
